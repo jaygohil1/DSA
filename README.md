@@ -35,10 +35,10 @@ Each day's folder contains the code and concepts learned on that day.
 
 ## 📚 Topics Covered
 
-- [ ] Java Basics
-- [ ] Methods
-- [ ] Arrays
-- [ ] ArrayList
+- [✅] Java Basics(OOPS is remaining!)
+- [✅] Methods
+- [✅] Arrays
+- [✅] ArrayList
 - [ ] Strings
 - [ ] Searching
 - [ ] Sorting
