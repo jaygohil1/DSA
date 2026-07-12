@@ -17,6 +17,7 @@ The purpose of this repository is to track my consistent, day-by-day journey thr
 ---
 
 ## 📂 Repository Structure
+#A bit dicey about this repo structure will see if I'll be keeing  this or remove this 
 
 ```
 Java-DSA/
@@ -40,7 +41,7 @@ Each day's folder contains the code and concepts learned on that day.
 - [✅] Arrays
 - [✅] ArrayList
 - [ ] Strings
-- [ ] Searching
+- [ ] Searching(In progress, started with linear search!)
 - [ ] Sorting
 - [ ] Binary Search
 - [ ] Recursion
@@ -58,12 +59,12 @@ Each day's folder contains the code and concepts learned on that day.
 
 ## 📅 Daily Progress
 
-| Day | Topics Learned |
-|-----|----------------|
-| Day01 | |
-| Day02 | |
-| Day03 | |
-| Day04| |
+| Day | Topics Learned                                      |
+|-----|-----------------------------------------------------|
+| Day01 |9-7-26, Linear search basics :) |
+| Day02 |                                                     |
+| Day03 |                                                     |
+| Day04|                                                     |
 
 ---
 
@@ -84,3 +85,5 @@ Also, learning and doing all of  this for the first time, so kinda nervous hehe 
 ---
 
 > "Small daily improvements are the key to staggering long-term results."
+---
+>gmi ;)
